@@ -88,7 +88,7 @@ Expense-Tracker-Pro/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-pro.git
+git clone https://222t1a0415-art.github.io/expense-tracker-pro/
 ```
 
 2. Navigate to the project folder
@@ -109,7 +109,7 @@ No additional setup required.
 
 Frontend Developer | JavaScript Enthusiast
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/222t1a0415-art
 
 ---
 
